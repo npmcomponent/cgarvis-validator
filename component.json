@@ -3,7 +3,7 @@
   "repo": "cgarvis/validator",
   "description": "Lightweight validation utility",
   "version": "0.0.1",
-  "keywords": ['validation', 'regexp'],
+  "keywords": ["validation", "regexp"],
   "dependencies": {},
   "development": {},
   "license": "MIT",

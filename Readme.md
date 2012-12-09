@@ -1,4 +1,3 @@
-
 # validator
 
   Lightweight validation library
@@ -9,9 +8,9 @@
 
 ## API
 
-    - [add(name, regexp)](#add-regexp)
-    - [add(name, fn)](#add-fn)
-    - [check(value, name](#check-value-name)
+  - [add(name, regexp)](#add-regexp)
+  - [add(name, fn)](#add-fn)
+  - [check(value, name)](#check-value-name)
 <a name=""></a>
 
 <a name="add-regexp"></a>

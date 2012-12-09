@@ -1,0 +1,13 @@
+{
+  "name": "validator",
+  "repo": "cgarvis/validator",
+  "description": "Lightweight validation library",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

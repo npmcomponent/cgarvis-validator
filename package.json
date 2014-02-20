@@ -1,8 +1,11 @@
 {
-    "name": "validator",
-    "version": "0.0.1",
-    "devDependencies": {
-        "mocha": "*",
-        "should": "*"
-    }
+  "name": "cgarvis-validator",
+  "description": "Lightweight validation utility",
+  "version": "0.0.1",
+  "keywords": [
+    "validation",
+    "regexp"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
